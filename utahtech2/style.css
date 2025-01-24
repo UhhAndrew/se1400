@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFFFF;
+    text-emphasis-color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: #003058;
+    text-emphasis-color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header h1 {
+    line-height: 140%;
+    padding: .5rem;
+
+}
+nav {
+    font-weight: bold;
+    background-color: #F3F3F3;
+}
+h2 {
+    text-emphasis-color: #424242;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
