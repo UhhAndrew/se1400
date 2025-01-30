@@ -1,10 +1,15 @@
 
 body {
-    background-color: black;
-    color:aqua
+    background-color: whitesmoke;
+    color: black
 }
 .teal{
     background-color: rgb(150, 43, 226);
     color: white;
 }
-
+header {
+    background-color: rgb(0, 213, 255);
+    border: solid 5px #333;
+    padding: 3rem;
+    margin: 5rem
+}
