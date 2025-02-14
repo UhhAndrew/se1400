@@ -4,12 +4,16 @@ body {
     color: black
 }
 .teal{
-    background-color: rgb(150, 43, 226);
+    background-color: rgb(0, 0, 0);
     color: white;
 }
 header {
-    background-color: rgb(0, 213, 255);
-    border: solid 5px #333;
-    padding: 3rem;
-    margin: 5rem
+    background-color: rgb(0, 0, 0);
+    border: solid 3px #333;
+    text-align: center;
+    color: white;
+}
+img {
+    width: 100%;
+    height: 
 }
