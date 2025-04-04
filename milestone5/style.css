@@ -139,4 +139,14 @@ html, body {
     .container {
         grid-template-columns: 1fr;
     }
+    .header h1 {
+        font-size: 18px;
+    }
+    .nav {
+        font-size: 10px;
+        flex-direction: column;
+    }
+    .cars {
+        grid-template-columns: 1fr;
+    }
 }
