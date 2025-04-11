@@ -163,7 +163,12 @@ td {
 .car :hover {
     color: wheat;
 }
-
+.information {
+    grid-area: 4 / 2 / 5 / 9;
+    justify-content: center;
+    display: flex;
+    font-size: 18px;
+}
 .footer {
     grid-area: 5 / 1 / 6 / 9;
     display: flex;
